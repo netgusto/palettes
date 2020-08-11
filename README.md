@@ -1,5 +1,3 @@
-# Palettes
-
 Some palettes I ❤️. <https://github.com/netgusto/palettes>
 
 ## Fez grass
